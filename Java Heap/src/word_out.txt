@@ -1,0 +1,19 @@
+Hi
+Invalid Vote : 8
+Invalid Vote : 9
+
+Number of voters: 30
+Number of valid votes: 28
+Number of spoilt votes: 2
+
+Candidate Score
+
+Denise Duncan 2
+Dawren Greenidge 3
+Jordon Cato 3
+Torrique Granger 4
+Nirvan Singh 4
+Saskia Kalicharan 6
+Avasa Tawari 6
+Saskia Kalicharan
+Avasa Tawari
